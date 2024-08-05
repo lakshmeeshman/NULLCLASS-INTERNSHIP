@@ -1,0 +1,1 @@
+This README provides an overview of my internship experience at NullClass Company, where I worked under the domain of Data Science. During this internship, I completed three major projects, each focused on enhancing my skills and applying data science techniques to solve real-world problems.
